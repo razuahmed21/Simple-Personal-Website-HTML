@@ -1034,10 +1034,11 @@ a.gradient-btn {
 
 /* Footer Section*/
 footer {
-	background-color: #535353;padding: 10px 0;
+	background-color: #E4EBE6;
+	padding: 10px 0;
 }
 footer p {
-	margin: 0;
+	margin:rgb(66, 66, 66)
 	color: rgb(233, 231, 231);
 	margin-top: 23px;
 }
